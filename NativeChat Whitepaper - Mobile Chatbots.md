@@ -136,7 +136,7 @@ I don't mean here that you should spam your contacts with adverts, but rather us
 
 For example, an airline chatbot could send a notifications that the online check-in is open, and offer to start the check-in via a chatbot conversation, or a university chatbot could ping a student that missed too many classes with the info on the next class, and offer to talk to someone if needed.
 
-<img src="img/Nudge-Example-University.png" style="width:400px; margin: 0 auto" />
+<img src="img/Nudge-Example-University.png" width="400px" />
 
 #### 2 + 2 = Mobile Chatbot
 
@@ -195,7 +195,7 @@ Additionally, if we train our chatbot to understand what product names we have (
 
 With the above two code snippets, we get a chatbot that can handle a conversation like this.
 
-<img src="img/Declarative-Programming.png" style="width:400px; margin: 0 auto; box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);" />
+<img src="img/Declarative-Programming.png" width="400px" />
 
 **Deployment**
 
@@ -230,7 +230,7 @@ Moreover, you can continuously update the set of Questions and Answers handled b
 
 For example, a university chatbot could be trained to inform prospective students about walking tours.
 
-<img src="img/Question-Answering.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Question-Answering.png" width="400px" />
 
 **Guided Task** conversation – the chatbot leads the user on a step-by-step journey, asking the required questions, and providing the available options along the way.
 
@@ -238,7 +238,7 @@ Guided Task conversations are used for situations where we need more information
 
 For example, a university chatbot might need to ask a new student for their name, degree and email to register them on the system.
 
-<img src="img/Guided-Task.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Guided-Task.png" width="400px" />
 
 **Static** vs **Dynamic**
 
@@ -248,13 +248,13 @@ We can also look at conversations from the perspective of whether the chatbot ne
 
 For example, when a student asks about the exam dates, the dates are fixed and the chatbot can provide the pre-trained answer.
 
-<img src="img/Static.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Static.png" width="400px" />
 
 **Dynamic** conversations – chatbots are instructed to identify request parameters and query the backend for the answer.
 
 For example, when a student asks about the exam for "Intro to Calculus", the chatbot identifies the "Intro to Calculus" as the subject, checks the backend for the next exam date/time and responds with a dynamically generated answer.
 
-<img src="img/Dynamic.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Dynamic.png" width="400px" />
 
 **Generic** (Linear) vs **Personalized** (Contextual)
 
@@ -264,13 +264,13 @@ In other cases, a chatbot might provide different answer depending or irrespecti
 
 For example, when a person asks about the location of a building, the chatbot doesn't need to know who the user is, it can go straight to answering the question.
 
-<img src="img/Generic-Linear.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Generic-Linear.png" width="400px" />
 
 **Personalized** (Contextual) conversations – chatbots are aware of the user that it is talking to, and provides answers that are tailored specifically to the user. Often Personalized conversations require the user to log in.
 
 For example, when a student asks about their next class, the chatbot needs to query the backend — using the user as the key — and respond with the relevant answer.
 
-<img src="img/Personalized-Contextual.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Personalized-Contextual.png" width="400px" />
 
 **Proactive** vs **Reactive**
 
@@ -282,13 +282,13 @@ Proactive conversations can only be delivered over SMS/WhatsApp chatbots, as the
 
 For example, the chatbot could integrate with the Assignment System at a university. The Assignment System could use the chatbot to send a reminder to each student about the upcoming assignment and provide suggestions on how to submit the assignment. Thus, informing the student about the way they can submit the assignment and encouraging them to submit the assignment on time.
 
-<img src="img/Proactive.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Proactive.png" width="400px" />
 
 **Reactive** conversations – chatbots respond to each request coming from the users. Most of the chatbot conversations are reactive.
 
 For example, when the student wants to submit an assignment, the chatbot reacts to that and guides them through the process.
 
-<img src="img/Reactive.png" style="width:400px; margin: 0 auto;" />
+<img src="img/Reactive.png" width="400px" />
 
 ### Chatbots are not here to replace People
 
