@@ -186,7 +186,9 @@ Additionally, if we train our chatbot to understand what product names we have (
   "type": "question",
   "entity": "product",
   "entity-type": "Product",
-  "messages": ["Which product are you interested in?"],
+  "messages": [
+    "Which product are you interested in?"
+  ],
   "display": {
     "type": "quick-reply"
   }
