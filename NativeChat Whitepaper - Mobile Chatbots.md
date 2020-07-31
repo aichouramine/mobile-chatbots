@@ -154,7 +154,9 @@ With the use of NLP, we can train our chatbot on how to respond to various thing
 
 **Languages**
 
-NativeChat can handle 72 different languages. This allows you to offer a chatbot conversation in the language that your user feels most comfortable with.
+NativeChat can handle 60+ different languages. This allows you to offer a chatbot conversation in the language that your user feels most comfortable with.
+
+<img src="img/Languages.png"/>
 
 According to Forbes, 60% of consumers do not (or rarely) buy from English-only sites. Multilingual support can greatly increase the adoption of bots especially within regions where multiple languages are spoken. If targeting a global audience, leveraging a chatbot that supports the ten most common languages will open up conversations to more than three billion people worldwide.
 
