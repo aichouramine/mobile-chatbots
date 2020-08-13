@@ -1,31 +1,5 @@
 # NativeChat Whitepaper: The Era of Mobile Chatbots
 
-**<need a place for this>**
-
-**Table of content**
-
-In this paper we seek to cover:
-
-1. Chatbot Benefits
-
-2. What is NativeChat and why you might need it
-
-3. Top reasons developers choose NativeChat
-
-4. Types of chatbot conversations
-
-5. Mobile Chatbots for the win
-
-6.
-
-7) --- Maybe this could be a separate segement of "Chatbot + Team for the win"
-
-8) Chatbots are not a replacement to people
-
-9) Nudge theory and Chatbots
-
-> Why NativeChat is the way to go
-
 ### Intro
 
 Messaging apps have become such an integral part of our lives, that you will probably forward this article via a text message instead of telling your friends about it.
@@ -122,9 +96,11 @@ What is particularly interesting that if you give access to your customers to co
 
 **They already have the app?**
 
-One way to reach your customers on a mobile device could be with a Native Mobile app. However, that "a" it takes time and money to build, and "b" it requires your users to download your app. While everyone with a mobile phone can be reached via SMS, and most smartphone users will have at least one of WhatsApp/Viber/Facebook Messenger.
+One way to reach your customers on a mobile device could be with a Native Mobile app. However, (a) it takes time and money to build one, and (b) it requires your users to download your app. While everyone with a mobile phone can be reached via SMS, and most smartphone users will have at least one of WhatsApp/Viber/Facebook Messenger.
 
 For example, if you travel accross the Balkans, most of taxi companies there, advertise that they can be reached on a number via WhatsApp or Viber. Unlike Über, they are not asking anyone to download any apps, just to send them a text message. While, also you don't need to worry about roaming charges — that is if you can find a working WiFi.
+
+Or you could have a shop assistant chatbot that would guide the users on their shopping jourey: it could provide detailed information about a product, check the stock and show them in which isle to find it. Additionally, if the customer asks question that would go out of chatbot's depth, the chatbot could offer to call a member of staff to customer's location to provide them with more advanced help.
 
 And there are many more examples, where you could open up an easy channel for your customers to reach you without the hassle of installing a native mobile app.
 
@@ -151,6 +127,15 @@ Progress® NativeChat is an innovative artificial intelligence-driven platform f
 NativeChat employs **Natural Language Processing** (NLP) — the ability of a computer program to understand human language as it is spoken — to analyse the things that the users say and respond with an appropriate answer.
 
 With the use of NLP, we can train our chatbot on how to respond to various things that the users say. In some cases the user might be asking a simple question, the chatbot could recognise the question and provide an answer, in other cases the user might be asking for something more complex, and the chatbot could trigger a step-by-step conversation to help them with their request.
+For example, when a customer wants to order a taxi, they should be able to use any expressions like: "I want to order a taxi", "Book a ride", "Pick me up", and the chatbot should start the **Order Taxi Conversation**.
+
+<img src="img/NLP-Example.png" width="400px" />
+
+Moreover, a well functioning chatbot should be able to understand dates and time in the way that people speak. For example, a customer ordering a taxi — when asked to provide the date and time of the pick up — should be able to say that they need a ride: "Today at 6pm", "On Friday at noon", or even "In 20 minutes", in each case the chatbot should translate these requests to a  Date and a Time values.
+
+<img src="img/NLP-Date-Example.png" width="400px" />
+
+
 
 **Languages**
 
@@ -205,7 +190,7 @@ With the above two code snippets, we get a chatbot that can handle a conversatio
 
 A NativeChat chatbot can be deployed to many different platforms, like:
 
-**<maybe these should be logos>**
+**<convert these should be logos>**
 
 - your website
 - WhatsApp
@@ -217,7 +202,12 @@ A NativeChat chatbot can be deployed to many different platforms, like:
 > Each of the deployment platforms come with their own advantages and limitations.
 > For example, you can speak to an Amazon Alexa Skill, and it will talk back to you, which feels natural and very inviting. However, voice-based chatbots might struggle to list multiple available options – as it would take a long time for it to say all of them – or they are not great at spelling things like car registration plates.
 
-You could deploy the same chatbot to multiple platforms. With one project you could place your chatbot on your website, and also have it communicate with your customers via WhatsApp and Facebook Messenger.
+You could deploy the same chatbot to multiple platforms. With one project, you could deploy your chatbot to WhatsApp, SMS and Viber and let your customers hail a taxi with the platform they feel most comfortable with.
+
+<img src="img/Publish-WhatsApp.jpg" width="30%" /><img src="img/Publish-SMS.jpg" width="30%" /><img src="img/Publish-Viber.png" width="30%" />
+
+[The above images should be all in one row next to each other]
+[Captions/titles for above images] 	WhatsApp		SMS		Viber
 
 ### Types of conversations
 
@@ -320,6 +310,11 @@ If you were to attempt to completely replace your user-facing team with a chatbo
 
 You should treat the chatbot as a way to make your customer-facing team more efficient, and transform the people from a team of script-reading "parrots" to a team of highly respected Subject Matter Experts.
 
-### Final word
+### CTA
 
-**<how to close>**
+
+
+
+
+INSERT BOILERPLATE TELERIK/PROGRESS ABOUT/COPYRIGHT INFO ETC
+
