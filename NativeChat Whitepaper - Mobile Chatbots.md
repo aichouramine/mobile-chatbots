@@ -21,7 +21,7 @@ In 2018, the "total worldwide text count" (for Messaging apps and SMS) was estim
 
 ---
 
-> ––––––––––––––––––––––––––––– turn into an infographic –––––––––––––––––––––––––––––
+> ––––––––––––––––––––––––––––– TODO: turn into an infographic –––––––––––––––––––––––––––––
 >
 > **WhatsApp** in numbers:
 > 2 billion users
@@ -72,7 +72,7 @@ To answer this quesion, we need to break it down into two smaller questions:
 
 To answer the first question, we should look at the benefits that a chatbot can bring.
 
-**<might be good to have a graphic for this>**
+[**TODO: might be good to have a graphic for this**]
 
 - Chatbots can work 24/7 — regardless of the time of the day, your customers will always be provided with a level of support
 - Chatbots can talk to many people at the same time — your users don't need to wait in a queue to have their queries addressed
@@ -190,7 +190,7 @@ With the above two code snippets, we get a chatbot that can handle a conversatio
 
 A NativeChat chatbot can be deployed to many different platforms, like:
 
-**<convert these should be logos>**
+[**TODO: convert these to logos**]
 
 - your website
 - WhatsApp
@@ -206,8 +206,8 @@ You could deploy the same chatbot to multiple platforms. With one project, you c
 
 <img src="img/Publish-WhatsApp.jpg" width="30%" /><img src="img/Publish-SMS.jpg" width="30%" /><img src="img/Publish-Viber.png" width="30%" />
 
-[The above images should be all in one row next to each other]
-[Captions/titles for above images] 	WhatsApp		SMS		Viber
+[**TODO: The above images should be all in one row next to each other**]
+[**Captions/titles for above images 	WhatsApp		SMS		Viber**]
 
 ### Types of conversations
 
